@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wk3 Demo</string>
+    <string name="age_caption_ma1">Age</string>
+    <string name="btn_caption_ma1">click</string>
+    <string name="age_caption_hint_ma1">Enter age</string>
+    <string name="age2_caption_hint_ma1">Enter a name</string>
+    <string name="name_caption_ma1">Name:</string>
+    <string name="show_map_caption_ma1">Show Map</string>
+    <string name="addr_caption_ma1">Address</string>
+    <string name="addr_caption_hint_ma1">Enter a Address</string>
+    <string-array name="my_courses_items">
+        <item>CSIT551</item>
+        <item>CSIT552</item>
+        <item>CSIT553</item>
+        <item>CSIT554</item>
+        <item>CSIT555</item>
+        <item>CSIT556</item>
+    </string-array>
+</resources>
